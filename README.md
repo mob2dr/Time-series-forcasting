@@ -1,11 +1,4 @@
 # Time-series-forcasting
-# :hourglass_flowing_sand: time-series-forecasting-wiki
-This repository contains a series of analysis, transforms and forecasting models frequently used when dealing with time series. The aim of this repository is to showcase how to model time series from the scratch, for this we are using a real usecase dataset ([Beijing air polution dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data) to avoid perfect use cases far from reality that are often present in this types of tutorials. If you want to rerun the notebooks make sure you install al neccesary dependencies, [Guide](docs/setup.md)
-
-<img src="results/beijing.jpg">
-We have fully documented every topic covered in this project
-# :open_file_folder: Dataset
-
 The dataset used is [AirPassengers.csv](https://github.com/mob2dr/Time-series-forcasting/files/11360190/AirPassengers.csv)
 the  public dataset.
 #  📚 Analysis and transforms
