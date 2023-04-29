@@ -16,7 +16,7 @@ the  public dataset.
   
 * Making our time series stationary
   * Difference transform
-  * BOX-cox for scsle varaince 
+  * The Box-Cox transformation
   * Smoothing
   * Moving average
 
