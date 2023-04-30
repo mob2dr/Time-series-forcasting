@@ -1,6 +1,6 @@
 # Time-series-forcasting
-The dataset used is [AirPassengers.csv](https://github.com/mob2dr/Time-series-forcasting/files/11360190/AirPassengers.csv)
-the  public dataset.
+The dataset used is [AirPassengers.csv](https://github.com/mob2dr/Time-series-forcasting/files/11360190/AirPassengers.csv) 
+the  public dataset which contains the number of passengers who traveled by airline per month from 1949 to 1960. The dataset has 144 observations and two columns: Month and the number of passengers..
 #  📚 Analysis and transforms
 
 * Time series decomposition (STL & Classical Decomposition)
