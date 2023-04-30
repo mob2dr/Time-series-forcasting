@@ -107,17 +107,17 @@ I used Rolling Forward for evalution next day
 <td align="right">12.7</td>
 <td align="right">9.7</td>
 </tr>
+ <tr>
+<td>Prophet</td>
+<td align="right">6.8</td>
+<td align="right">6.87</td>
+<td align="right">3.14</td>
+</tr>
 <tr>
 <td>XGBOOST</td>
 <td align="right">30.5</td>
 <td align="right">41.3</td>
 <td align="right">6.97</td>
-</tr>
-<tr>
-<td>Prophet</td>
-<td align="right">6.8</td>
-<td align="right">6.87</td>
-<td align="right">3.14</td>
 </tr>
 <tr>
 <td>LGBMRegressor</td>
@@ -127,7 +127,7 @@ I used Rolling Forward for evalution next day
 </tr>
 <tr>
 <td>KNeighborsRegressor</td>
-<td align="right"> 22.15/td>
+<td align="right"> 22.15</td>
 <td align="right">25.48</td>
 <td align="right">4.72</td>
 </tr>
