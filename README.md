@@ -98,8 +98,14 @@ I used Rolling Forward for evalution next day
 <tr>
 <td>Advanced Smoothing Double exp</td>
 <td align="right">31.5</td>
-<td align="right"39.9</td>
-<td align="right"9.7</td>
+<td align="right">39.9</td>
+<td align="right">3.34/td>
+</tr>
+<tr>
+<td>Advanced Smoothing Triple exp</td>
+<td align="right">9.5</td>
+<td align="right">12.7</td>
+<td align="right">9.7</td>
 </tr>
 <tr>
 <td>XGBOOST</td>
@@ -109,32 +115,26 @@ I used Rolling Forward for evalution next day
 </tr>
 <tr>
 <td>Prophet</td>
-<td align="right">0.026</td>
-<td align="right">0.026</td>
-<td align="right">0.48</td>
+<td align="right">6.8</td>
+<td align="right">6.87</td>
+<td align="right">3.14</td>
 </tr>
 <tr>
 <td>LGBMRegressor</td>
-<td align="right">0.062</td>
-<td align="right">0.089</td>
+<td align="right">27.0</td>
+<td align="right">38.0</td>
 <td align="right">6.22</td>
 </tr>
 <tr>
 <td>KNeighborsRegressor</td>
-<td align="right">0.049/td>
-<td align="right">0.056</td>
+<td align="right"> 22.15/td>
+<td align="right">25.48</td>
 <td align="right">4.72</td>
 </tr>
 <tr>
 <td>SVR</td>
-<td align="right">0.10</td>
-<td align="right">0.12</td>
-<td align="right"9.26</td>
-</tr>
-<tr>
-<td>LSTM</td>
-<td align="right">0.15</td>
-<td align="right">0.173</td>
-<td align="right">13.86</td>
+<td align="right">44.57</td>
+<td align="right">56.77</td>
+<td align="right">9.259</td>
 </tr>
 </tbody></table>
